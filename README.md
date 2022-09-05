@@ -7,15 +7,14 @@
  Tested features:  
 * Registration 
 * Login
-* Partner with us 
+ 
 	
 #### -----------Test Case Summary---------
 
-Total Test Case: 13
+Total Test Case: 24
+Pass: 20
 
-Pass: 06
-
-Fail: 07
+Fail: 04
 
 Warning: 00
 
@@ -28,11 +27,11 @@ Tested features:
 
 #### ------------Test Summary-----------
 
-Total Test Case : 18
+Total Test Case : 23
 
-Pass: 08
+Pass: 14
 
-Fail: 10
+Fail: 09
 
  
 Warning: 00
