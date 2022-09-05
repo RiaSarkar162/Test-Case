@@ -1,1 +1,1 @@
-# Test-Case
+# Test case for Daraz website and application.
