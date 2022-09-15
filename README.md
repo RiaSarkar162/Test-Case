@@ -1,6 +1,6 @@
 # Test case for Daraz website and application.
 
-### Test case writing for Happihub website and Happihub Aplication.
+### Test case writing for Daraz website and Daraz Aplication.
 
 #### For website:
   
