@@ -41,7 +41,7 @@ Warning: 00
  ### ---------------------------Severity---------------------- 
  
  #### --------Total Summary----------
-No. of Features: 02
-No. of Test Cases: 47
-Total Bugs:13
+No. of Features: 02                                                         
+No. of Test Cases: 47                                                       
+Total Bugs:13                                               
  ### ---------------------------Bug Report--------------------
